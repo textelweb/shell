@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp hello --recursive=school
+chgrp school --recursive=hello
