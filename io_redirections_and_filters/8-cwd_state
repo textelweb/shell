@@ -1,2 +1,2 @@
 #!/bin/bash
-cat find . /ls_cwd_content -empty | ls -R
+cat find . / -empty | ls -R > ls_cwd_content
