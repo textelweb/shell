@@ -1,2 +1,2 @@
 #!/bin/bash
-source find . / -empty | ls -R
+source ls_cwd_content find . / -empty | ls -R
