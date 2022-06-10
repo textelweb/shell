@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Use of for to increment the strin echo
+# Use of for to increment the string echo
 for ((i=0; i<=9; i++))
 do
 echo "Best School"
