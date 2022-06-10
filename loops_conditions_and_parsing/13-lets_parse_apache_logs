@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# apache history
+filename="apache-access.log"
+awk '{print $1 " " $9}' $filename
