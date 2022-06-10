@@ -8,7 +8,7 @@ then
 echo "bad luck"
 elif [ $a == 8 ]
 then
-echo "goof look"
+echo "good look"
 else
 echo "Best School"
 fi
