@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # While more conditions
 a=1
-while [ a$ -le 10 ]
+while [ $a -le 10 ]
 do
 echo "Best School"
 if [ $a ==9 ]
