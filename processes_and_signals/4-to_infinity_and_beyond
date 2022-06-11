@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+#infinity process
+while true
+do
+	printf "To infinity and beyond"
+	sleep 2
+done
