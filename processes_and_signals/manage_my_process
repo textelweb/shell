@@ -5,4 +5,5 @@ while true
 do
 	echo "I am alive!"
 	sleep 2
+	rm /var/run/my_process.pid
 done
