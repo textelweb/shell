@@ -2,6 +2,6 @@
 #infinity process
 while true
 do
-	printf "To infinity and beyond"
+	printf "To infinity and beyond\n"
 	sleep 2
 done
