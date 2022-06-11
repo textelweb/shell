@@ -20,7 +20,7 @@ function stop()
      
     echo "manage_my_process stopped"
 	rm $FILE
-	echo "Done"
+	echo "Good"
 }
 
 function restart()
