@@ -11,7 +11,7 @@ function start()
 {
     (./manage_my_process) &
     echo $$ > $FILE
-    echo "manage_py_process started"
+    echo "manage_my_process started"
 }
 
 function stop()
