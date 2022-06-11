@@ -17,8 +17,9 @@ function start()
 function stop()
 {
     pkill -f ./manage_my_process
-     rm  $FILE
+     
     echo "manage_my_process stopped"
+	rm $FILE
 }
 
 function restart()
