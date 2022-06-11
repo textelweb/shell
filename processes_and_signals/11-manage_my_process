@@ -17,7 +17,7 @@ function start()
 function stop()
 {
     pkill -f ./manage_my_process
-    sudo rm -r $FILE
+    sudo rm -rf $FILE
     echo "manage_my_process stopped"
 }
 
